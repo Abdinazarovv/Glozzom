@@ -32,11 +32,6 @@ body {
   background-size: cover;
 }
 
-
-#home-icons {
-
-}
-
 #bg-box {
   background-image: url(./../img/lights.jpg);
   background-attachment: fixed;
@@ -63,4 +58,13 @@ body {
 #main-footer {
   background-color: black;
   color: #fff;
+}
+
+.about-banner {
+  background-image: url(./../img/image1.jpg);
+  background-attachment: fixed;
+}
+
+.about-img {
+  margin-top: -80px;
 }
